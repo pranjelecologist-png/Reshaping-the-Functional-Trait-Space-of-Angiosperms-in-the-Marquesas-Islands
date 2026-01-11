@@ -1,2 +1,2 @@
 # Reshaping-the-Functional-Trait-Space-of-Angiosperms-in-the-Marquesas-Islands
-Trait based analysis exploring how newly added species and corrected trait data reshape the functional space of Marquesas Island angiosperms using the GIFT database.
+This project examines how updates in species occurrence and trait information alter the functional trait space of angiosperms in the Marquesas Islands. Using the GIFT database accessed through R, the study evaluates how missing data and data corrections influence functional diversity patterns and ecological interpretation.
